@@ -5,5 +5,9 @@ public class Main {
         System.out.println("programowania");
         System.out.println("i");
         System.out.print("commitowania");
+        System.out.print("i");
+        System.out.print("świetnie");
+        System.out.print("się");
+        System.out.print("bawię");
     }
 }
